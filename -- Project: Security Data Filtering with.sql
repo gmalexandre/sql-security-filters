@@ -1,5 +1,5 @@
 -- Project: Security Data Filtering with SQL
--- Author: [Your Name]
+-- Author: [Gabriel]
 -- Description: SQL queries to investigate suspicious login attempts and identify employee machines for security updates.
 
 -- 1. Retrieve failed login attempts after business hours (after 18:00)
